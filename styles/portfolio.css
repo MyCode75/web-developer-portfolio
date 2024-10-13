@@ -63,6 +63,15 @@ nav a{
     background-image: url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
+    position: relative;
+}
+.developer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.developer img{
+    width: 80%;
 }
 .banner{
     padding: 30px 30px 0 150px;
