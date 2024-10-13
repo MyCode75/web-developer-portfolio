@@ -36,6 +36,10 @@ nav{
     align-items: center;
     margin: 0 200px;
 }
+
+nav h3{
+    font-size: 38px;
+}
 .nav-title{
     color: #181818;
     font-size: 45px;
